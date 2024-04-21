@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aiket bhand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fork in Generative AI from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: aniketbhand05@gmail.com</h3>
 <p align="left">
 </p>
 
