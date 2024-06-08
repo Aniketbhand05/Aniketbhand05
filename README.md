@@ -47,6 +47,7 @@
 <h3 align="left">Blogs</h3>
 <p align="left"> 
 <h2 aligh = 'left'>https://medium.com/@aniketbhand05/classifying-wildlife-animals-using-vgg16-model-a-deep-learning-project-a42a880c932b</h2>
+<h2 aligh = 'left'>https://medium.com/@aniketbhand05/unveiling-emotions-building-an-emotion-detection-system-with-cnns-d00cabf66eac</h2>
 </p>
 
 ---
